@@ -1,0 +1,23 @@
+{
+  "name": "correction_tp9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "electron-packager": "^13.1.0",
+    "electron-store": "^2.0.0",
+    "jquery": "^3.3.1",
+    "objects-to-csv": "^1.2.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "electron": "^4.0.6"
+  }
+}
